@@ -10,7 +10,9 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {},
+    "require": {
+        "firebase/php-jwt": "^5.4"
+    },
     "autoload": {
         "psr-4": {
             "codignwithshawon\\zaincash\\": "src/"

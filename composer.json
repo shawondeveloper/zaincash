@@ -1,0 +1,19 @@
+{
+    "name": "codingwithshawon/zaincash",
+    "description": "This is iraq mobile payment gatway",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Shajedul Islam Shawon",
+            "email": "54211870+shawondeveloper@users.noreply.github.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "codignwithshawon\\zaincash\\": "src/"
+        }
+    }
+}

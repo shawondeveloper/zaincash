@@ -15,5 +15,12 @@
         "psr-4": {
             "codignwithshawon\\zaincash\\": "src/"
         }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "codingwithshawon\\zaincash\\ZainCashServiceProvider"
+            ]
+        }
     }
 }
